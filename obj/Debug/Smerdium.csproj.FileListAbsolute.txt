@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Smerdium\obj\Debug\Smerdium.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Smerdium\obj\Debug\Smerdium.Form1.resources
+C:\Users\User\source\repos\Smerdium\obj\Debug\Smerdium.Properties.Resources.resources
+C:\Users\User\source\repos\Smerdium\obj\Debug\Smerdium.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Smerdium\obj\Debug\Smerdium.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Smerdium\bin\Debug\Smerdium.exe.config
+C:\Users\User\source\repos\Smerdium\bin\Debug\Smerdium.exe
+C:\Users\User\source\repos\Smerdium\bin\Debug\Smerdium.pdb
+C:\Users\User\source\repos\Smerdium\obj\Debug\Smerdium.exe
+C:\Users\User\source\repos\Smerdium\obj\Debug\Smerdium.pdb
